@@ -1,0 +1,3 @@
+NAME_MAX_LENGTH = 50
+ERROR_MESSAGE = {"LOGIN_ERROR": "Invalid email or password."}
+SLOT_PRICE_MAX_DIGIT = 8
